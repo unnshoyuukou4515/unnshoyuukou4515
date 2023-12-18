@@ -9,10 +9,10 @@
 
 - 🔭 I’m currently working on:
   - <a href="https://www.tsugo.online/"><img alt="Tsugo Online" height="50px" src="https://i.ibb.co/CWM3PmN/dall-e-2023-12-07-23-33-34-revise-the-existing-logo-design-to-depict-a-scene-of-interpretation-rathe.png" /></a>
-  **Tsugo **: Finding Interpreter WebApplication includes Video chat system.
+  **Tsugo **: Finding Interpreter WebApplication includes Video chat system.<br>
   **Tsugo **: 非日本語習得者向けの通訳依頼掲載サービス。PeerjsとSocket.IOを使用した匿名チャット・ビデオチャットも搭載
   - <a href="https://solo-pj-front-unnshoyuukou4515s-projects.vercel.app/"><img alt="Solo Project" height="50px" src="https://i.ibb.co/2qNDqFL/d50aaae0-a5ca-4cec-a3ca-f316246ef5fa.jpg" /></a> *(Note: Currently inactive)*
-  **Nomi-Con **: Keeping track of your visited Izakaya and searching Izakaya around your location.
+  **Nomi-Con **: Keeping track of your visited Izakaya and searching Izakaya around your location.<br>
   **呑みコン **: マップ上にユーザーの入店記録を表示しつつ、自身の周辺の居酒屋をマップ上に表示する。
 - 📫 How to reach me:
   <p align="left">
