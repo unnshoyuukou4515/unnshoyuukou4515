@@ -16,9 +16,9 @@
   **呑みコン **: マップ上にユーザーの入店記録を表示しつつ、自身の周辺の居酒屋をマップ上に表示する。
 - 📫 How to reach me:
   <div>
-  <a href="https://www.linkedin.com/in/koichiro-yokoi-897197294/"><img alt="LinkedIn" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" /></a>
- <a href="mailto:unnshoyuukou4515@gmail.com"><img alt="Email" height="20px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" /></a>
-</div>
+    <a href="https://www.linkedin.com/in/koichiro-yokoi-897197294/"><img alt="LinkedIn" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" /></a>
+    <a href="mailto:unnshoyuukou4515@gmail.com"><img alt="Email" height="20px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" /></a>
+  </div>
 
 
 <!--
