@@ -10,10 +10,10 @@
 - 🔭 I’m currently working on:
   - <a href="https://www.tsugo.online/"><img alt="Tsugo Online" height="50px" src="https://i.ibb.co/CWM3PmN/dall-e-2023-12-07-23-33-34-revise-the-existing-logo-design-to-depict-a-scene-of-interpretation-rathe.png" /></a><br>
   **Tsugo **: Finding Interpreter WebApplication includes Video chat system.<br>
-  **都合 **: 非日本語習得者向けの通訳依頼掲載サービス。PeerjsとSocket.IOを使用した文章チャット・ビデオチャットも搭載
+  **都合 **: 非日本語習得者向けの通訳依頼掲載サービス。PeerjsとSocket.IOを使用した文章チャット・ビデオチャットも搭載。GoogleMap使用した検索機能有
   - <a href="https://solo-pj-front-unnshoyuukou4515s-projects.vercel.app/"><img alt="Solo Project" height="50px" src="https://i.ibb.co/2qNDqFL/d50aaae0-a5ca-4cec-a3ca-f316246ef5fa.jpg" /></a> *(Note: Currently inactive)*<br>
   **Nomi-Con **: Keeping track of your visited Izakaya and searching Izakaya around your location.<br>
-  **呑みコン **: マップ上にユーザーの入店記録を表示しつつ、自身の周辺の居酒屋をマップ上に表示する。
+  **呑みコン **: マップ（Leafleat)上にユーザーの入店記録を表示しつつ、自身の周辺の居酒屋をマップ上に表示する。
 - 📫 How to reach me:
   <div>
     <a href="https://www.linkedin.com/in/koichiro-yokoi-897197294/"><img alt="LinkedIn" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" /></a>
